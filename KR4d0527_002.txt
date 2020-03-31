@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 近光集
-#+DATE: 2020-03-31 11:35:45.065055
+#+DATE: 2020-03-31 11:35:45.125292
 #+PROPERTY: ID KR4d0527
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 2
 <pb:KR4d0527_WYG_002-1a>¶
 　　欽定四庫全書¶
@@ -94,7 +94,7 @@
 ¶
 　　雪巢詩為趙允升左司賦(京兆人)¶
 ¶
-　　巢居何所有積雪照昊穹玉井撫太華隂崖瞰九&KR0580;户¶
+　　巢居何所有積雪照昊穹玉井撫太華隂崖瞰九嵕户¶
 牖皆天成鸞鵠相追従調息室生白吐辭夜紆虹凝沍¶
 <pb:KR4d0527_WYG_002-5a>¶
 雖有時氷玉儲心胸坎象原氣和乾徳函年豐二實黙¶
